@@ -1,11 +1,3 @@
-/**
- * Base By Dika Ardnt.
- * Recode By GuaAbuzz
- * Kalau Mau Recode, Edit Aja Di confiq.js
- * Contact Me On wa.me/6289636827082
- * Follow https://github.com/Abuzzpoet
- */
-
 //gausah di apa² in!
 const fs = require('fs')
 const chalk = require('chalk')
@@ -24,13 +16,13 @@ global.APIKeys = {
 
 //—————「 Set Nama Bot & Own 」—————//
 //terserah mau ubah atau nggak
-global.namabot = 'TB-815'
-global.namaowner = '1KUT'
+global.namabot = 'SAXIA BOT'
+global.namaowner = 'Fal store'
 
 //—————「 Setting Owner 」—————//
 //terserah mau ubah atau nggak
-global.owner = ['6281232444391']
-global.premium = ['6281232444391']
+global.owner = ['6285896921529']
+global.premium = ['628891753051']
 
 //—————「 Setting Nomor Donasi 」—————//
 //ubah aja kalau ada yg gapunya kasih tanda -
@@ -46,11 +38,11 @@ global.saweria = ['-']
 
 //—————「 Set Kebutuhan Button 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :)
-global.github = 'https://github.com/Ajimiko'
+global.github = 'https://pinohost.my.id'
 
 //—————「 Set Wm 」—————//
 //terserah mau ubah atau nggak
-global.packname = '1KUT'
+global.packname = 'SAXIA BOT'
 global.author = 'WhatsApp Bot'
 
 //—————「 Set Nama Session 」—————//
@@ -84,7 +76,7 @@ global.mess = {
 //terserah mau ubah atau nggak
 global.limitawal = {
     premium: "Infinity",
-    free: 50,
+    free: 10,
 }
 
 //—————「 Set Image 」—————//
